@@ -3,7 +3,7 @@
  * main - prints the size of various types
  * return: Always 0 (success)
  */
-int main(void)
+int main(void) /* uses puts() and returns 0*/
 {
 	printf("Size of a char: %zu byte(s)\n", sizeof(char));
 	printf("Size of an int: %zu byte(s)\n", sizeof(int));
