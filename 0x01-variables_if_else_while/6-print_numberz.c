@@ -5,7 +5,6 @@
  * without using any char variables
  * Return 0
  */
-
 int main(void)
 {
 	int a;
