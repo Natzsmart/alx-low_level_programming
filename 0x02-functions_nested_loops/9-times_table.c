@@ -1,4 +1,4 @@
-#include "main"
+#include "main.h"
 /**
  * times_table - check the code for Printing 9times table students.
  * Return: Always 0
