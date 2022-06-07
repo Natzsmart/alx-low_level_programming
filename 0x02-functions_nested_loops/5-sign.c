@@ -2,7 +2,7 @@
 /**
  * print_sign - returns 1 if n is +, - if n < 0 0 otherwise
  * @n: integer to be tested
- * Return: 1 if n>0, 0 if n == 0, -1 if n<0
+ * Return: 1, -1 or 0
  */
 int print_sign(int n)
 {
@@ -21,4 +21,5 @@ int print_sign(int n)
 		_putchar('-');
 		return (-1);
 	}
+}
 
