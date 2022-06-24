@@ -11,7 +11,7 @@
  * Otherwise - 0.
  */
 
-nt main(int argc, char *argv[])
+int main(int argc, char *argv[])
 {
 	int cents, coins = 0;
 
