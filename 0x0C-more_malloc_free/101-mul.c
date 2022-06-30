@@ -58,7 +58,6 @@ char *create_xarray(int size)
  *
  * Return: A pointer to the next non-zero element.
  */
-
 char *iterate_zeroes(char *str)
 {
 	while (*str && *str == '0')
