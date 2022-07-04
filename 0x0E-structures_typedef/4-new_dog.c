@@ -11,7 +11,7 @@ char *_copy(char *src)
 {
 	char *ptr;
 	int i, len;
-	
+
 	if (src == NULL)
 	{
 		return (NULL);
