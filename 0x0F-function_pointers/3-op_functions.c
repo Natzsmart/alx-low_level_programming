@@ -6,7 +6,7 @@ int op_mul(int a, int b);
 int op_div(int a, int b);
 int op_mod(int a, int b);
 
-/** 
+/**
  * op_add - Returns the sum of two numbers.
  * @a: The first number.
  * @b: The second number.
@@ -47,7 +47,7 @@ int op_mul(int a, int b)
  * @a: The first number.
  * @b: The second number.
  *
- * Return: The Quotient of a by b.
+ * Return: The quotient of a and b.
  */
 int op_div(int a, int b)
 {
