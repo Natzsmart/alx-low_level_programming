@@ -12,3 +12,9 @@ void print_name(char *name, void (*f)(char *))
 
 	f(name);
 }
+
+void main()
+{
+	print_name();
+	return 0;
+}
